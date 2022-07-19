@@ -25,20 +25,20 @@ body{
     margin-bottom: 30px;
     margin-left: 0;
     top: 200px;
-    font-size: 28px;
+    font-size: 33px;
     text-shadow: 5px 5px 10px black;
    
 
 }
 
 .carousel-item p{
-    color: goldenrod;
+    color:goldenrod;
     margin:50px 0 50px;
     left: 0;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold ;
     margin-left: 0;
-    text-shadow: 5px 5px 10px white;
+    text-shadow: 5px 5px 10px black;
 
 }
 .carousel-item span{

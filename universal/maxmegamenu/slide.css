@@ -35,7 +35,7 @@ body{
     color:goldenrod;
     margin:50px 0 50px;
     left: 0;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold ;
     margin-left: 0;
     text-shadow: 5px 5px 10px black;
@@ -51,14 +51,14 @@ body{
 }
 .carousel-item button{
     padding: 8px 20px;
-    background: white;
+    background: goldenrod;
     border: 0;
     outline: none;
     border-radius: 20px;
-    color: black;
+    color: white;
     margin-left: 30px;
     font-size: 13px;
-    border: 1px solid goldenrod;
+    border: 1px solid black;
 }
 .carousel-item img{
     width: 100%;
